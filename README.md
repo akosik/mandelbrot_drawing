@@ -1,1 +1,1 @@
-# mandelbrot_drawing
+# Mandelbrot Drawing
